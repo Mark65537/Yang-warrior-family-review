@@ -1,2 +1,5 @@
-# Yang-warrior-family-review
-Статья Обзор игры Yang warrior family для Sega Mega Drive
+# Описание 
+Обзор игры Yang warrior family для Sega Mega Drive. и вспомогательные материалы не вошедшие в статью
+
+## Структура
+- Cutscenes - в файле содержиться оригинальный текст с катсцен и перевод на другие языки 
