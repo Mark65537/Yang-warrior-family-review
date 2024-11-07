@@ -6,3 +6,6 @@
 
 - Cutscenes - в файле содержиться оригинальный текст с катсцен и перевод на другие языки
 - Not_Included.MD - содержаться пораграфы не вошедшии в финальную версию статьи
+
+## Ссылки
+1. [Статья на Retrodrom](https://retrodrom.games/review/generals-of-the-yang-family/)
